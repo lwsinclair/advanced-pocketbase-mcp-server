@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-advanced-pocketbase-mcp-server-badge.png)](https://mseep.ai/app/dynamicendpoints-advanced-pocketbase-mcp-server)
+
 # Advanced PocketBase MCP Server
 
 [![smithery badge](https://smithery.ai/badge/pocketbase-server)](https://smithery.ai/server/pocketbase-server)
